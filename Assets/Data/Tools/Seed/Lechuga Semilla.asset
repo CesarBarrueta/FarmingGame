@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8571e84125009a94b8b6a41bafe093c3, type: 3}
+  m_Name: Lechuga Semilla
+  m_EditorClassIdentifier: 
+  description: Semillas de lechuga
+  thumbnail: {fileID: -1498906959, guid: 795c2d4201447ac40a04422c68822e23, type: 3}
+  gameModel: {fileID: 0}
+  daysToGrow: 3
+  cropToYield: {fileID: 11400000, guid: 1db2baa5c878ab243bc7d335539e734e, type: 2}
